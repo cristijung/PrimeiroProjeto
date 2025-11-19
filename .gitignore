@@ -1,0 +1,9 @@
+/build/
+/dist/
+*.log
+
+/node_modules
+./Vscode
+.Ds_Store
+*.tmp
+*.html
